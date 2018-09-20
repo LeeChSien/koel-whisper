@@ -1,7 +1,15 @@
 This is a Koel mobile client for both iOS & Android.
 
-![Album](https://raw.githubusercontent.com/LeeChSien/koel-whisper/master/doc/album.png)
-![Play list](https://raw.githubusercontent.com/LeeChSien/koel-whisper/master/doc/to/playlist.png)
+<img src="https://raw.githubusercontent.com/LeeChSien/koel-whisper/master/doc/album.png" width="300px">.
+<img src="https://raw.githubusercontent.com/LeeChSien/koel-whisper/master/doc/playlist.png" width="300px">.
+
+## Features
+
+- Login
+- Fetch media library (Album, Artist)
+- Streaming (mp3 / 320kbps)
+- Background playback
+- Play control in iOS Control Center
 
 ## Installation
 
