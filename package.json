@@ -1,0 +1,42 @@
+{
+  "name": "koel_player",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-decorators": "7.0.0",
+    "@babel/runtime": "7.0.0",
+    "@shoutem/ui": "^0.23.4",
+    "d3-interpolate": "^1.3.2",
+    "mobx": "^5.1.0",
+    "mobx-react": "^5.2.8",
+    "moment": "^2.22.2",
+    "react": "16.5.0",
+    "react-native": "0.57.0",
+    "react-native-content-loader": "^0.1.6",
+    "react-native-dropdownalert": "^3.5.0",
+    "react-native-fast-image": "^5.0.3",
+    "react-native-music-control": "^0.7.3",
+    "react-native-slider": "^0.11.0",
+    "react-native-sound": "^0.10.9",
+    "react-native-storage": "^0.2.2",
+    "react-native-svg": "^7.0.2",
+    "react-native-tab-view": "^1.0.2",
+    "react-native-vector-icons": "^5.0.0",
+    "react-native-video": "^3.2.1",
+    "react-navigation": "^2.13.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.0.0",
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.45.3",
+    "react-test-renderer": "16.5.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
